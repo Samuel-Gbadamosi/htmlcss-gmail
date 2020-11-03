@@ -1,0 +1,57 @@
+body{
+  background-image: url(https://images.all-free-download.com/images/graphicthumb/wood_background_hd_picture_4_169843.jpg);
+  background-size: cover;
+}
+.container{
+  width: 700px;
+  height: 600px;
+  margin: auto;
+}
+
+
+
+h1{
+  display: inline;
+  font-size: 22px;
+  color:white;
+
+}
+
+ .logo{
+   height: 80px;
+   vertical-align: middle;
+ }
+/* sezione span */
+ .round{
+   width:50px;
+   height: 50px;
+   background-color: orange;
+   border-radius: 50%;
+   padding:14px;
+   vertical-align: middle;
+ }
+ /* finisci sezione span */
+
+.email{
+  background-color: lightgrey;
+}
+
+.email-row{
+  border:1px solid black;
+  padding: 2px;
+}
+
+.testo-mail{
+  display: inline;
+}
+
+
+.read{
+  background-color: white;
+}
+/* inzia footer */
+.footer{
+
+  text-align: center;
+  color: white;
+}
